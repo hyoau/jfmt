@@ -26,4 +26,4 @@ java -jar formatter.jar --style aosp /home/test/code_base
 mvn clean install
 ```
 
-Wish this tool could be helpful to you :)
+Hope this tool could be helpful to you :)

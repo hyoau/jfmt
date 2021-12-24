@@ -1,0 +1,10 @@
+target/
+bin/
+.idea/
+.settings/
+.vscode/
+.classpath
+.project
+release/
+dependency-reduced-pom.xml
+

@@ -1,4 +1,4 @@
-# jfmt: an easy-to-use code format tool for Java
+# jfmt: An easy-to-use code format tool for Java
 
 ## How to use
 
